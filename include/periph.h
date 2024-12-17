@@ -13,7 +13,8 @@ void sonar_init(){
 	sei();					/* Enable global interrupt */
 	TIMSK1 = (1 << TOIE1);	/* Enable Timer1 overflow interrupts */
 	TCCR1A = 0;
-}
+} 
+
 
 // sonar_read function implmentation moved to timerISR.h file
 // double sonar_read()

@@ -1,6 +1,7 @@
 #ifndef IRAVR_h
 #define IRAVR_h
 
+
 /*IRinit() initializes timer0 to work with the pin you have connected to the IR sensor.
 To use it, you need to pass in the address to the DDR and PIN registers you are using and the the pin number being used.
 EX: IRinit(&DDRD, &PIND, 7); for PD7
