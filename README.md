@@ -33,8 +33,9 @@ damage, increase health, skip opponent's turn respectively for 1-3) and this can
   * #include “pitches.h”: contains all the pitches used for the passive buzzer to create different sounds for music.
 
 **Wiring Diagram**: 
-![Wiring Diagram](https://github.com/user-attachments/assets/40d8db28-8a1d-422c-a912-33918a128d74)
+![Wiring Diagram](https://github.com/user-attachments/assets/40d8db28-8a1d-422c-a912-33918a128d74
 
+**Demo Video**: https://www.youtube.com/watch?v=Osk4n7E4cj0&t=1s 
 
 
 
